@@ -1,0 +1,16 @@
+.card{
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(245, 166, 238);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    
+}
+.card button{
+    width: 150px;
+    margin: 0 auto;
+    color: #fff;
+    background-color: rgb(245, 166, 238);;
+    border-radius: 20px;
+}
